@@ -3,7 +3,7 @@
 <head>
 <title>Jaco | Portal</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<?php include("includes/head-tags.html"); ?>
+<?php include("includes/head-tags.php"); ?>
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
